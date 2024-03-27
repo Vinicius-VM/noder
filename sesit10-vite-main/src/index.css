@@ -13,3 +13,18 @@ body{
   color: var(--text);
 }
 
+.leaflet-control-attribution{
+  display: none;
+}
+
+a{
+  text-decoration: none;
+  color: #ffff;
+  opacity: 0.8;
+  font-size: 1.2rem;
+}
+
+a:hover{
+  opacity: 1;
+  text-shadow: 1px 1px 2px rgb(255, 131, 203);
+}

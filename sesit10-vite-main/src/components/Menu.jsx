@@ -9,6 +9,9 @@ export default function Menu(){
             <p>
                 <a href={'/contact'}>CONTATO</a>
             </p>
+            <p>
+                <a href={'/calc'}>CÁlCULOS</a>
+            </p>
         </div>
     )
 }
