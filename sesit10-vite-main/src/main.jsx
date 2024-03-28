@@ -10,6 +10,7 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+import { Calc } from './Calc.jsx';
 
 const router = createBrowserRouter([
   {
